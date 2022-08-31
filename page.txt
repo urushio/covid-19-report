@@ -11,7 +11,7 @@ The product will be referred to as BNT162b2 in this lay summary for ease of read
 For practical information about using BNT162b2 patients should read the Information for UK recipients or contact their doctor or healthcare practitioner.
 
 What is BNT162b2 and what is it used for?
-BNT162b2 is a vaccine indicated for active immunisation of individuals 16 years of age and older to prevent COVID-19 caused by the SARS-CoV-2 virus.
+BNT162b2 is a vaccine indicated for active immunisation to prevent COVID-19 caused by the SARS-CoV-2 virus, in individuals 12 years of age and older.
 
 How does BNT162b2 work?
 When a person is given BNT162b2, it triggers the body to naturally produce antibodies and stimulates immune cells to protect against COVID-19.
@@ -46,7 +46,9 @@ Authorisation for the temporary supply of BNT162b2 was granted in the UK on 1 De
 
 The full public assessment report for BNT162b2 follows this summary.
 
-This summary was last updated 11 December 2020.
+This summary was last updated in June 2021.
+
+A marketing authorisation was granted for the Pfizer/BioNTech vaccine (Comirnaty) following a European Commission (EC) decision on 21 December 2020 (PLGB 53632/0002).
 
 1. Introduction
 This report is based on the information provided by the company in a rolling data submission procedure and it covers the authorisation for temporary supply of BNT162b2. At the time of writing, the main clinical study is still on-going and additional data is being collected. Due to differences in the collection date, the data and information in this report may differ from that contained in documents relating to BNT162b2 released by other regulatory authorities. Quality aspects of the vaccine are reviewed on a batch-specific basis.
@@ -82,6 +84,8 @@ The CHM concluded that the proposed supply of COVID-19 mRNA Vaccine BNT162b2 for
 Authorisation for the temporary supply of COVID-19 mRNA Vaccine BNT162b2 was granted in the UK on 1 December 2020. This report covers data received and reviewed for this authorisation only. This authorisation is valid until expressly withdrawn by MHRA or upon issue of a marketing authorisation.
 
 Whilst an acceptable level of information has been received to provide assurance that appropriate standards of quality, safety and efficacy have been met for authorisation of specific batches for temporary supply under Regulation 174 of the Regulations, it should be noted that COVID-19 mRNA Vaccine BNT162b2 remains under review as MHRA continues to receive data from the company as it becomes available. This will include, for example, long-term follow-up efficacy and safety data. Further information that is received by the MHRA will be reviewed as part of the ongoing assessment for this product and updates will be made to this PAR to reflect that in due course.
+
+On 4 June 2021 the MHRA granted an extension of indication to ‘the active immunisation to prevent COVID-19 caused by the SARS-CoV-2 virus, in individuals 12 years of age and older’.
 
 2. Quality aspects
 2.1 Introduction
